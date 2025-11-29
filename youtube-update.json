@@ -1,6 +1,6 @@
 {
   "version": "v20.14.43 (patches 5.46.0)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module-fork/releases/download/1/youtube-revanced-magisk-v20.14.43-all.zip",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module-fork/releases/download/2/youtube-revanced-magisk-v20.14.43-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module-fork/update/build.md"
 }
